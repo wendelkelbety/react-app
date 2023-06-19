@@ -1,5 +1,6 @@
 {
   "name": "app",
+  "homepage": "https://wendelkelbety.github.io/react-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
